@@ -1,0 +1,11 @@
+C:\Users\mariusz\source\repos\juiceboxes_loader\juiceboxes_loader\obj\Debug\juiceboxes_loader.csprojAssemblyReference.cache
+C:\Users\mariusz\source\repos\juiceboxes_loader\juiceboxes_loader\obj\Debug\juiceboxes_loader.Form1.resources
+C:\Users\mariusz\source\repos\juiceboxes_loader\juiceboxes_loader\obj\Debug\juiceboxes_loader.Properties.Resources.resources
+C:\Users\mariusz\source\repos\juiceboxes_loader\juiceboxes_loader\obj\Debug\asshook_loader.memepanel.resources
+C:\Users\mariusz\source\repos\juiceboxes_loader\juiceboxes_loader\obj\Debug\juiceboxes_loader.csproj.GenerateResource.cache
+C:\Users\mariusz\source\repos\juiceboxes_loader\juiceboxes_loader\obj\Debug\juiceboxes_loader.csproj.CoreCompileInputs.cache
+C:\Users\mariusz\source\repos\juiceboxes_loader\juiceboxes_loader\bin\Debug\juiceboxes_loader.exe.config
+C:\Users\mariusz\source\repos\juiceboxes_loader\juiceboxes_loader\bin\Debug\juiceboxes_loader.exe
+C:\Users\mariusz\source\repos\juiceboxes_loader\juiceboxes_loader\bin\Debug\juiceboxes_loader.pdb
+C:\Users\mariusz\source\repos\juiceboxes_loader\juiceboxes_loader\obj\Debug\juiceboxes_loader.exe
+C:\Users\mariusz\source\repos\juiceboxes_loader\juiceboxes_loader\obj\Debug\juiceboxes_loader.pdb
